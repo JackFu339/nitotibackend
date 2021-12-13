@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.fontSize": 12
+    ,
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "None"
+}
